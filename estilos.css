@@ -1,0 +1,44 @@
+body{
+    background-color: #363636;
+    color: #FFFAFA;
+}
+
+#div1{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #00BFFF;
+}
+
+#div2{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #00FF00;
+}
+
+#div3{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #FF00FF;
+}
+
+#div4{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #FF0000;
+}
+
+#div5{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #FFFF00;
+}
+
+#div6{
+    height: 800px;
+    width: 530px;
+    border: 5px solid #F5FFFA;
+}
+
+div{
+    display: inline-block;    
+}
